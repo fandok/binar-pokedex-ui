@@ -1,0 +1,18 @@
+.title {
+  font-size: 80px;
+  line-height: 130px;
+  text-align: center;
+}
+
+.titleSpace {
+  margin-bottom: 213px;
+}
+
+.container {
+  max-width: 1440px;
+  margin: 213px auto;
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  flex-wrap: wrap;
+}
